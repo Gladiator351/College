@@ -1,0 +1,18 @@
+Summary
+
+Basically what we're doing is writing a neural network.
+What that means is we're going to take in a certain set of
+inputs (4 in our case) and end up with an output (one of 4 
+possible.) There will be a hidden layer that performs a
+function (Sigmoid) on the inputs.
+
+Specifics
+
+This is going to be powering a game. So there are 4 vectors
+of input: Health, Has-Knife, Has-Gun, and Enemies. There can
+be a number of values for each input (from 0 to something higher.)
+There are 4 possible outcomes or behaviors that the character
+should take depending on the situation, which depends on the
+inputs. Those 4 behaviors are: Attack, Run, Wander, or Hide.
+See Table 3 in the instructions for the desired outputs for
+each permutation of input values.

@@ -1,0 +1,5 @@
+Helpful Git Commands
+
+UPDATE GITHUB
+git push -u origin [branch/master]
+

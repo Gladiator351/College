@@ -1,0 +1,27 @@
+node----node----node----node
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+|        |
+
+~dp = m/s
+~dt = L/R
+
+~The downtime at the top of the transmissions that you're
+used to having are now longer because of propagation delay.
+dp and dt switch going down, with dp at the top
+
+
+3*(m/s)+(K+2)*(L/R)
+
+N(M/S) + (K+(N-1))(L/R)
+
+~F: size of file
+~L: size of packet
+~K: number of packets
+
+

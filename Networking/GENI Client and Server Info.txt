@@ -1,0 +1,11 @@
+Client
+jnweaks@pc3.instageni.stanford.edu:27458
+zxu@pc3.instageni.stanford.edu:27458
+
+Server
+jnweaks@pc3.instageni.stanford.edu:27459
+zxu@pc3.instageni.stanford.edu:27459
+
+Always Add Key
+ssh-add -k ~/.ssh/id_geni_ssh_rsa
+

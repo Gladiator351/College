@@ -1,0 +1,17 @@
+a.
+
+Start by splitting 16k into 4 packets of 4kb size
+
+Split again in second step, 8 packets of 2kb size
+
+Third step, 16 packets of 1kb size
+
+b.
+
+The overhead will eventually overcome the benefit of splitting the packets.
+
+The graph will curve up at the end.
+
+c.
+
+The overhead will become even more drastic.
